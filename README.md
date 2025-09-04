@@ -2,7 +2,22 @@
 
 ---
 
-## 🎯 Project Objective
+## 📑 Table of Contents
+
+- <a href="#project-objective">🎯 Project Objective</a>  
+- <a href="#tools-technology">🧠 Tools & Technologies Used</a>  
+- <a href="#problem-solved">📌 Business Problems Solved</a>  
+- <a href="#steps-follow">⚙️ Steps Followed</a>  
+- <a href="#key-insights">💡 Key Insights & Findings</a>    
+- <a href="#dashboard-feature">🌟 Dashboard Features</a>  
+- <a href="#what-i-learned">📈 What I Learned</a>  
+- <a href="#conclusion">📌 Conclusion</a>
+- <a href="#contact">📬 Connect with Me</a>  
+- <a href="#project-visual">🖼️ Project Snapshot</a>  
+
+---
+
+## <span id="project-objective">🎯 Project Objective</span> 
 
 Retail Sales Dashboard built in Excel using Power Query, Pivot Tables, and Map Charts.
 This project analyzes a 5000-row retail dataset to solve real-world business problems through dynamic, slicer-controlled visual insights.
@@ -10,7 +25,7 @@ It simulates a real business scenario where data-driven decisions matter—deliv
 
 ---
 
-## 🧠 Tools & Technologies Used
+## <span id="tools-technology">🧠 Tools & Technologies Used</span> 
 
 - **Microsoft Excel**
   - Power Query
@@ -18,12 +33,13 @@ It simulates a real business scenario where data-driven decisions matter—deliv
   - Pivot Chart
   - Slicers
   - Map Chart
+  
 - **Data Source**: A 5000-row CSV file representing retail sales transactions.
 - **Skills Applied**: Data Cleaning, Data Modeling, Dashboard Designing, Business Problem Solving.
 
 ---
 
-## 📌 Business Problems Solved
+## <span id="problem-solved">📌 Business Problems Solved</span> 
 
 In this project, I focused on solving the following business problems:
 
@@ -37,7 +53,7 @@ In this project, I focused on solving the following business problems:
 
 ---
 
-## ⚙️ Steps Followed
+## <span id="steps-follow">⚙️ Steps Followed</span> 
 
 To address the above questions, I followed a structured workflow:
 
@@ -67,7 +83,7 @@ To address the above questions, I followed a structured workflow:
 
 ---
 
-## 💡 Key Insights & Findings
+## <span id="key-insights">💡 Key Insights & Findings</span> 
 
 Here are the insights uncovered through this analysis:
 
@@ -93,7 +109,7 @@ Here are the insights uncovered through this analysis:
 
 ---
 
-## 🌟 Dashboard Features
+## <span id="dashboard-feature">🌟 Dashboard Features</span> 
 
 The final dashboard was built to be both **dynamic** and **decision-maker friendly**, featuring:
 
@@ -105,7 +121,7 @@ The final dashboard was built to be both **dynamic** and **decision-maker friend
 
 ---
 
-## 📈 What I Learned
+## <span id="what-i-learned">📈 What I Learned</span> 
 
 This project significantly boosted my understanding and hands-on experience in:
 
@@ -117,11 +133,12 @@ This project significantly boosted my understanding and hands-on experience in:
 
 ---
 
-## 📌 Conclusion
+## <span id="conclusion">📌 Conclusion</span> 
 
 This project marked a **turning point** in my Excel learning journey.
 
 It taught me how to:
+
 - Go beyond basic charting and formulas
 - Think strategically about business needs
 - Communicate data effectively with clean and insightful visualizations
@@ -131,7 +148,18 @@ Most importantly, it proved that **Excel is not just a spreadsheet tool**, but a
 
 ---
 
-## 🖼️ Final Dashboard Preview
+## <span id="contact">📬 Connect with Me</span>  
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## <span id="project-visual">🖼️ Project Snapshot</span> 
 
 ### Final Retail Sales Dashboard
 ![Final Retail Sales Dashboard](./Final%20Retail%20Sales%20Dashboard.png)
